@@ -1,0 +1,28 @@
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
+http://httpstat.us/404 → 404 Not Found
+http://httpstat.us/500 → 500 Internal Server Error
+http://www.example.com/nonexistentpage → 404 Not Found
