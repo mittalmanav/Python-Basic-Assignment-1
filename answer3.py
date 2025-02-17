@@ -31,8 +31,7 @@ def check_urls():
             status_text = f"{url} → {status_code} {response.reason}"
             if 400 <= status_code < 600:
                 print(f"ALERT: {status_text} (Site might be down!)")
-                with open("error_log.txt", "a") as log_file:
-                    log_file.write(status_text + "\n")
+                
             else:
                 print(f"OK: {status_text}")
         except requests.exceptions.RequestException as e:
